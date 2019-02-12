@@ -5,3 +5,22 @@ body {
     margin: 0;
     padding: 0;
 }
+
+div.dogbg {
+    background-image: url("img/dogbg.jpg");
+    background-repeat: repeat;
+}
+
+div.catbg {
+    background-image: url("img/catbg.jpg");
+    background-repeat: repeat;
+}
+
+div.intro {
+    width: 760px;
+    float: left;
+}
+
+.bullet {
+    list-style-type: circle;
+}
